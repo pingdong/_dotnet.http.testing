@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A5D6E18E-69A0-4415-B120-4E2C65928153}") = "PingDong.Http.Testing", "src\Http.Testing\Http.Testing.csproj", "{52B23CBD-4143-4237-8784-EB543233CEAA}"
+EndProject
+Project("{A3BB7518-1502-4C7B-BC5B-DD58E5C7DDD5}") = "PingDong.Http.Testing.UnitTests", "src\Http.Testing.UnitTests\Http.Testing.UnitTests.csproj", "{9DBC7C73-95D8-46AA-8568-9912DA1E5287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B23CBD-4143-4237-8784-EB543233CEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B23CBD-4143-4237-8784-EB543233CEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B23CBD-4143-4237-8784-EB543233CEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B23CBD-4143-4237-8784-EB543233CEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBC7C73-95D8-46AA-8568-9912DA1E5287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBC7C73-95D8-46AA-8568-9912DA1E5287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBC7C73-95D8-46AA-8568-9912DA1E5287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBC7C73-95D8-46AA-8568-9912DA1E5287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3D7AFB-73A8-4943-A0AB-A2C7BB8868E1}
+	EndGlobalSection
+EndGlobal
